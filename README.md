@@ -4,8 +4,12 @@ This is an Automation Of TRex Game in Chrome .
 
 #### To Execute This Python Requirements are :
 1: Pyautogui
+
 2: Pillow
+
 3: Numpy
+
 After This You Need To Make Sure That The Chrome Is On Left Half Of Screen and Cursor Focus Is On The Chrome and The Trex Game Is On The Screen.
+
 And You're Ready To GO!!!
 
