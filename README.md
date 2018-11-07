@@ -13,3 +13,5 @@ After This You Need To Make Sure That The Chrome Is On Left Half Of Screen and C
 
 And You're Ready To GO!!!
 
+Thanks [Vikram](https://github.com/vikramk9852) Sir for the inspiration of this project.
+
